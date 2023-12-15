@@ -1,6 +1,4 @@
-# Pjt-Antisocial
-Claro, vou ajudar a aprimorar o texto. Aqui está uma versão revisada:
-
+# Projeto Social
 ---
 
 ## 9.2 Documentação do Projeto: "Escola Conectada"
