@@ -1,33 +1,34 @@
 # Projeto Social
+
 ---
 
 ## 9.2 Documentação do Projeto: "Escola Conectada"
 
-A documentação do nosso projeto "Escola Conectada" é um guia que ilumina cada passo da nossa jornada. É um reflexo do nosso esforço, pensamento e paixão, todos convergindo para criar algo extraordinário. Aqui estão alguns detalhes para humanizar ainda mais nossa narrativa:
+A documentação do nosso projeto "Escola Conectada" é como um mapa que orienta cada passo da nossa jornada. É um pedaço do nosso esforço, pensamento e paixão reunidos para criar algo especial. Aqui estão alguns detalhes para dar um toque mais direto ao que fizemos:
 
 ### Visão Geral do Projeto:
-Enxergue nosso projeto como um imenso quebra-cabeça, onde cada peça se encaixa harmoniosamente para formar algo verdadeiramente notável. As mentes e corações por trás disso trabalham incansavelmente para transformar a "Escola Conectada" em uma realidade inspiradora.
+Imagine nosso projeto como um quebra-cabeça gigante, onde cada peça se encaixa para formar algo incrível. As pessoas por trás disso são os cérebros e as mãos que trabalham incansavelmente para tornar a "Escola Conectada" uma realidade.
 
 ### Contextualização:
-Almejamos que o projeto seja uma ponte sólida, conectando nossa escola ao mundo de maneira singular. O site é como uma janela que permite a todos espiar e sentir-se parte integral do que está acontecendo.
+Queremos que o projeto seja como uma ponte sólida, conectando nossa escola ao mundo de uma maneira única. Imagine o site como uma janela para a vida da escola, onde todos podem dar uma olhada e se sentir parte do que está acontecendo.
 
 ### Justificativa:
-Buscamos estreitar laços, informar e envolver as pessoas. É como abrir as cortinas para revelar todos os talentos, eventos e conquistas que tornam nossa escola um lugar singular.
+Queremos que as pessoas se sintam mais próximas, mais informadas e mais envolvidas. É como abrir as cortinas para revelar todos os talentos, eventos e conquistas que fazem da nossa escola um lugar especial.
 
 ### Objetivos:
-Pense nos nossos objetivos como sonhos transformados em realidade. Cada passo, desde a definição de requisitos até o treinamento dos professores, é uma peça fundamental na construção desse sonho.
+Pense nos nossos objetivos como sonhos que estamos transformando em realidade. Cada passo, desde levantar requisitos até treinar os professores, é uma peça importante na construção deste sonho.
 
 ### Público Beneficiado:
-Os heróis deste projeto são os alunos, pais e professores. Cada ação é dedicada a tornar a experiência deles ainda mais enriquecedora. O site é uma ferramenta que fortalece os laços entre todos nós.
+Os protagonistas deste projeto são os alunos, pais e professores, e tudo o que fazemos é para tornar a experiência deles ainda melhor. Queremos que o site seja como uma ferramenta que fortalece os laços entre todos nós.
 
 ### Descrição da Ação ou Metodologia:
-Imagine os grupos de trabalho como equipes em um torneio, cada uma contribuindo com habilidades únicas para a vitória. Nosso encontro presencial é um palco onde a magia acontece, e cada aluno desempenha um papel vital.
+Imagine os grupos de trabalho como equipes em um torneio, cada uma trazendo suas habilidades únicas para vencer. Nosso encontro presencial é como um palco onde a mágica acontece, e cada aluno desempenha um papel vital.
 
 ### Impacto:
-Queremos que as pessoas vejam o projeto não apenas como um site, mas como uma história sendo contada, uma narrativa viva da nossa escola.
+Queremos que as pessoas vejam o projeto não apenas como um site, mas como uma história sendo contada, uma história da nossa escola.
 
 ### Recursos:
-Cada investimento é como uma semente plantada para colher frutos no futuro. O laboratório de informática e os serviços online são ferramentas que moldam nossa visão.
+Cada investimento é como uma semente plantada para colher frutos no futuro. O laboratório de informática e os serviços online são como ferramentas que usamos para moldar nossa visão.
 
 ### Cronograma de Atividades:
 As datas são como capítulos, marcando nossa jornada passo a passo. Cada grupo tem seu momento de brilhar, e cada encontro é um novo episódio da nossa história.
